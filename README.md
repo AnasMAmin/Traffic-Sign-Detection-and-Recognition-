@@ -1,7 +1,8 @@
 # Traffic Sign Detection and Recognition  
 
 ## Overview  
-Traffic sign detection and recognition is a crucial task in intelligent transportation systems, enhancing road safety and optimizing traffic management. This project implements a Traffic Sign Detection and Recognition system using MATLAB, leveraging machine learning techniques and masks to improve accuracy and robustness.  
+Traffic sign detection and recognition is a crucial task in intelligent transportation systems, enhancing road safety and optimizing traffic management. This project implements a Traffic Sign Detection and Recognition system using MATLAB, leveraging machine learning techniques and masks to improve accuracy and robustness. 
+![Example Image](h24.png)
 
 ## Features  
 - **Preprocessing**: Image enhancement using Gaussian filters and histogram equalization.  

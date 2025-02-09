@@ -32,3 +32,29 @@ Traffic sign detection and recognition is a crucial task in intelligent transpor
    ```sh
    git clone https://github.com/yourusername/Traffic-Sign-Detection.git
    cd Traffic-Sign-Detection
+3. Run the main script in MATLAB.
+
+## Usage
+1. Load the dataset into MATLAB.
+2. Run the detection and recognition pipeline.
+3. View results and model performance metrics.
+
+## Contributors
+- **Ahmed Mohamed Mohamed Eshennawy**
+- **Anas Mohamed Amin**
+- **Mohamed Mohamed Gouda**
+- **Elsaeed Ahmed Nader**
+- **Karim Ibrahim Fathy**
+
+## Supervisor
+- **Prof. Fatma Newagy**
+
+## References
+- **Sallah, Siti Sarah Md, et al.** Road sign detection and recognition system for real-time embedded applications.
+- **Khan, Taha.** Real-Time Recognition System for Traffic Signs.
+- **Liang, Ming, et al.** Traffic sign detection by ROI extraction and histogram features-based recognition.
+- **Biau, G., Scornet, E.** A random forest guided tour.
+
+
+
+
